@@ -1,0 +1,16 @@
+{
+   "name": "Reddit Launcher",
+   "version": "1.0",
+   "manifest_version": 2,
+   "description": "Reddit Launcher",
+   "app": {
+      "launch": {
+         "web_url": "http://www.reddit.com/"
+      },
+      "urls": [ "http://www.reddit.com/" ]
+   },
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "permissions": [ "unlimitedStorage" ]
+}
