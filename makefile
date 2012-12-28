@@ -1,7 +1,7 @@
 DEST = "reddit-chrome-app"
 CHROME = $(shell which google-chrome)
 
-SRCS = icon_128.png manifest.json
+SRCS = distilled-small.png manifest.json
 
 default:
 @echo "To generate a reddit-chrome-app.zip run:"
